@@ -1,6 +1,6 @@
-// Nicolas Alberti 
+// Nicolas Alberti 120274/5
 // comisión 2
-// link del video: 
+// link del video: https://youtu.be/ftsM2Ao2Xkk
 
 // variables 
 let r, g, b, r2, g2, b2;
